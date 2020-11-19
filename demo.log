@@ -1,0 +1,8 @@
+2020-11-19 16:10:48 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-11-19 16:12:26 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-11-19 16:13:13 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-11-19 16:13:19 INFO     request.remote_addr: 127.0.0.1
+2020-11-19 16:13:19 INFO     request.environ.get('REMOTE_ADDR'): 127.0.0.1
+2020-11-19 16:13:19 INFO     request.environ.get('HTTP_X_FORWARDED_FOR'): None
+2020-11-19 16:13:19 INFO     127.0.0.1 - - [19/Nov/2020 16:13:19] "[37mGET / HTTP/1.1[0m" 200 -
+2020-11-19 16:13:20 INFO     127.0.0.1 - - [19/Nov/2020 16:13:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
