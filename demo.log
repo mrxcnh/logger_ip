@@ -6,3 +6,15 @@
 2020-11-19 16:13:19 INFO     request.environ.get('HTTP_X_FORWARDED_FOR'): None
 2020-11-19 16:13:19 INFO     127.0.0.1 - - [19/Nov/2020 16:13:19] "[37mGET / HTTP/1.1[0m" 200 -
 2020-11-19 16:13:20 INFO     127.0.0.1 - - [19/Nov/2020 16:13:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020-11-20 07:52:33 INFO     request.remote_addr: 
+2020-11-20 07:52:33 INFO     request.environ.get('REMOTE_ADDR'): 
+2020-11-20 07:52:33 INFO     request.environ.get('HTTP_X_FORWARDED_FOR'): 117.6.85.2
+2020-11-20 07:53:08 INFO     request.remote_addr: 
+2020-11-20 07:53:08 INFO     request.environ.get('REMOTE_ADDR'): 
+2020-11-20 07:53:08 INFO     request.environ.get('HTTP_X_FORWARDED_FOR'): 117.6.85.2
+2020-11-20 08:06:24 INFO     request.remote_addr: 
+2020-11-20 08:06:24 INFO     request.environ.get('REMOTE_ADDR'): 
+2020-11-20 08:06:24 INFO     request.environ.get('HTTP_X_FORWARDED_FOR'): 109.175.26.85
+2020-11-20 08:06:51 INFO     request.remote_addr: 
+2020-11-20 08:06:51 INFO     request.environ.get('REMOTE_ADDR'): 
+2020-11-20 08:06:51 INFO     request.environ.get('HTTP_X_FORWARDED_FOR'): 1.52.50.179
