@@ -1,4 +1,7 @@
 {% extends "index.html" %}
 {% block images %}
 "Images will be showed here soon!"
+    {% for i in list_image %}
+        <img src="https://private-keypair.s3.amazonaws.com/{{image.Key}}" width="200px" height="200px" ng-repeat="image in allImageData">
+    {% endfor %}
 {% endblock %}
